@@ -14,3 +14,5 @@ Places and entry in your **Sound & Video** menu.
 
 ## License
 This project is released under **The Unlicense**. You are free to do whatever you want with this code!
+
+Note: This has been tested on the Trixie branch only.

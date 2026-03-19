@@ -1,6 +1,7 @@
 # armspot64
 
 A lightweight, high-performance Spotify Web Player wrapper for Raspberry Pi 400 (arm64).
+This uses Chromium as a back-end due to DRM and therefore requires Chromium to be present (already bundled with Raspberry Pi OS).
 
 Places and entry in your **Sound & Video** menu.
 

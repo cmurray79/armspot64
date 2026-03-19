@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=armspot64
+Comment=Spotify Web Wrapper for Pi 400
+Exec=armspot64
+Icon=armspot64
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+StartupWMClass=open.spotify.com

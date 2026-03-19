@@ -17,3 +17,9 @@ Places an entry in your **Sound & Video** menu.
 This project is released under **The Unlicense**. You are free to do whatever you want with this code!
 
 Note: This has been tested on the Trixie branch only.
+
+## ⚖️ Disclaimer
+
+**armspot64** is an unofficial, community-developed project. It is **not** affiliated with, maintained by, or endorsed by Spotify. 
+
+This tool is provided as a lightweight wrapper to improve the user experience on ARM64 Linux hardware. All trademarks, service marks, and music content are the property of their respective owners. Use this software at your own risk; it is provided "as is" under the Unlicense.
